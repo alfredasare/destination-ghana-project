@@ -1,0 +1,47 @@
+#hero {
+  height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: top;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-img {
+	width: 100%;
+}
+
+#footer{
+	background-color: #007e04;
+	color: rgba(255,255,255,0.70);
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+}
+
+#about-text {
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+
+#questions {
+	font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#booking-submit {
+	color: #44be28;
+	text-decoration: none;
+	text-align: center;
+	border: 1px solid #44be28;
+	padding: 7px 20px;
+	margin-top: 40px;
+	transition: 0.2s ease-in-out all;
+}
+
+#booking-submit:hover {
+	color: #ffffff;
+	background-color: #44be28;
+}
+
